@@ -1,3 +1,6 @@
+//ACTIVITIES (June 10, 2022)
+
+
 
 // ACTIVITY 3 (if/else/switch)
 
@@ -108,5 +111,5 @@ let pet = {
 console.log(pet.eat());
 console.log(pet.drink());
 
-/////
+//
 

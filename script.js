@@ -108,3 +108,5 @@ let pet = {
 console.log(pet.eat());
 console.log(pet.drink());
 
+/////
+
